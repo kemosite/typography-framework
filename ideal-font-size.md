@@ -3,7 +3,7 @@
 Automatically and responsively setting an ideal font size in CSS can be done as a function of:
 - vmin-one-degree-arc: calc( 100vmin / 30 ); /* 1 degree of arc = 3.333vmin = 4-5 letter fixation point
 - letter-diameter: calc( var(--kemosite-vmin-one-degree-arc) / 4.5 (Average of 4 and 5);
-- font-size: calc( var(--letter-width) / 0.5 /* Or actual x-height of font */
+- font-size: calc( var(--letter-diameter) / 0.5 /* Or actual x-height of font */
 
 Or, in short:
 - font-size: 1.481vmin
