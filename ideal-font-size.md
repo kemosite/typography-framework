@@ -12,5 +12,5 @@ Example from a 1920 x 1080 monitor:
 - Minimum dimension is 1080 pixels
 - 1080 pixels / 30 degrees = 1 degree = 36 pixels
 - 36 pixels / 4.5 letter fixation point = 8 pixel diameter per letter
-- 8 pixels / x-height (0.5) = 16 pixels font size
+- 8 pixels diameter per letter / x-height (0.5) = 16 pixels font size
 - 16 pixels / 1080 minimum dimension = 1.481% = 1.481vmin
